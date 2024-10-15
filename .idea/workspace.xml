@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e43ffd7-9f66-4f3a-a63c-badbf129d555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2938/Problem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2938/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2938/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem1/Problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem1/Problem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Diagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Problem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
