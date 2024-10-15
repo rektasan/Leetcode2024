@@ -1,4 +1,4 @@
-package Problems.problem1;
+package com.rektasan.leetcode.problem1;
 
 import java.util.Arrays;
 

@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e43ffd7-9f66-4f3a-a63c-badbf129d555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Problems/problem1/Problem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Problems/problem1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Problems/problem1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2938/Problem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2938/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2938/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem1/Problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem1/Problem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Problem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Problems/problem2331/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rektasan/leetcode/problem2331/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +66,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/opopo/IdeaProjects/LeetCode2024",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,13 +78,26 @@
       <recent name="C:\Users\opopo\IdeaProjects\LeetCode2024\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.rektasan.leetcode.problem2938.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems.problem1.Test" />
+      <option name="MAIN_CLASS_NAME" value="problems.problem1.Test" />
       <module name="LeetCode2024.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems.problem1.*" />
+          <option name="PATTERN" value="problems.problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.rektasan.leetcode.problem2938.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rektasan.leetcode.problem2938.Test" />
+      <module name="LeetCode2024.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rektasan.leetcode.problem2938.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.rektasan.leetcode.problem2938.Test" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -113,12 +137,32 @@
       <option name="project" value="LOCAL" />
       <updated>1715892538106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Problem 1 TwoSum">
+      <option name="closed" value="true" />
+      <created>1718613871729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718613871729</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Problem 1 TwoSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 1 TwoSum" />
   </component>
 </project>

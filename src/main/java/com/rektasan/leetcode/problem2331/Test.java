@@ -1,4 +1,4 @@
-package Problems.problem2331;
+package com.rektasan.leetcode.problem2331;
 
 public class Test {
 

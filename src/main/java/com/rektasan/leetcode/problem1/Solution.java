@@ -1,4 +1,4 @@
-package Problems.problem1;
+package com.rektasan.leetcode.problem1;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,7 @@ class Solution {
     for (int i = 0; i < nums.length; i++) {
       Integer complementIndex = complements.get(nums[i]);
       if (complementIndex != null) {
-        return new int[]{i, complementIndex};
+        return new int[]{complementIndex, i};
       }
       complements.put(target - nums[i], i);
     }
